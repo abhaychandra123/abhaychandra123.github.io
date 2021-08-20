@@ -1,0 +1,21 @@
+a{
+    text-decoration: none;
+}
+.navbar{
+    background-color:royalblue;
+    width: 98vw;
+    height: 10vh;
+    border: 0.5vw solid red;
+    border-radius: 5px;
+    display:flex;
+    flex-wrap:wrap;
+    justify-content: flex-end;
+}
+.item{
+    font:normal small-caps 1.2em Georgia;
+    background-color: greenyellow;
+    border: 3px solid fuchsia;
+    margin: 10px;
+    height: auto;
+    width: 100px;
+}
